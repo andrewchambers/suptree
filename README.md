@@ -26,5 +26,5 @@ children:
 Plans for the future:
 
 - nested supervisors.
-- remove supervisors over ssh.
+- remote supervisors over ssh.
 - failover?
