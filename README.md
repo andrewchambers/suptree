@@ -22,3 +22,9 @@ children:
   	- name: "django"
 	  exec: ["gunicorn", "...", "..."]
 ```
+
+Plans for the future:
+
+- nested supervisors.
+- remove supervisors over ssh.
+- failover?
