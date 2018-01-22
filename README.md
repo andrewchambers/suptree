@@ -2,7 +2,7 @@
 An OS process supervisor tree loosely modeled on erlang.
 
 The purpose is grouping collections of processes so they can be effectively started, stopped and logged as one. This
-is useful for development of multiple interacting services and also other situations like multi purpose containers.
+is useful for development of multiple interacting services and also other situations like multi process containers.
 
 
 Example config:
