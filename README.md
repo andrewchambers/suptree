@@ -19,6 +19,6 @@ children:
 	- name: "apache"
 	  exec: ["apache", "...", "..."]
 
-  - name: "django"
+  	- name: "django"
 	  exec: ["gunicorn", "...", "..."]
 ```
